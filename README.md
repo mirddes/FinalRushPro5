@@ -352,7 +352,7 @@ made by ozonex.
 This version of the map includes files from the FinalRushPro3 mod, which was created by CommanderChronicles.
 
 Changes in version 5.x are by [EntropyWins][Entropy]. The version 5 preview image was created by JuiceBoy.
-
+ 
 [FAF]: http://www.faforever.com/
 [docs]: https://wiki.faforever.com/index.php?title=Final_Rush_Pro_5
 [download]: https://github.com/JeroenDeDauw/FinalRushPro5/archive/master.zip
